@@ -1,6 +1,9 @@
 # SnakeSkin
 very simple, typewritter esc text editor.
 
+requirements:
+CopperUI ([GitHub](https://github.com/Copperhead-Software/CopperUI))
+
 how to use:
 
 python3 Snakeskin.py <filename>
